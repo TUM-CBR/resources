@@ -1,1 +1,4 @@
-* APBS-3.4.1.Windows
+APBS-3.4.1:
+	Windows: https://github.com/Electrostatics/apbs/releases/tag/v3.4.1
+DSSP:
+	Windows: https://github.com/PDB-REDO/dssp/releases/tag/v4.4.0
